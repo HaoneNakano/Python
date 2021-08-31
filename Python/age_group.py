@@ -1,7 +1,7 @@
 import datetime
 today = datetime.date.today()
 todaynow = datetime.datetime.now()
-print("Hoje é (complet): ", todaynow)
+print("Hoje é (completo): ", todaynow)
 print("Hoje é (simplificado): ", today)
 
 nascimento = int(input("Digite ano de nascimento: "))
