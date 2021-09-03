@@ -1,5 +1,5 @@
 import datetime
-today = datetime.date.today()
+today = datetime.date.today().strftime("%d/%m/%Y")
 todaynow = datetime.datetime.now()
 print("Hoje é (completo): ", todaynow)
 print("Hoje é (simplificado): ", today)
