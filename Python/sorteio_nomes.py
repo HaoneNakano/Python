@@ -1,4 +1,3 @@
-# inserir nomes dos funcionários e fazer um sorteio de nomes
 def main():
     nomes = []
     nome = input("Digite o nome do funcionário: ")

@@ -1,4 +1,3 @@
-# procurar cep
 def procurar_cep(cep):
     import requests
     import json
