@@ -15,4 +15,4 @@ def procurar_cep(cep):
         print('CEP não encontrado')
 
 
-procurar_cep('01001000')
+procurar_cep('86065190')
